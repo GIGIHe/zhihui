@@ -1,0 +1,32 @@
+li {list-style-type:none;}
+a{text-decoration: none;}
+.mt{
+  margin-top: 0.46rem;
+/* 修改 */
+}
+.mt_8{
+  margin-top: 8px;
+}
+.mb{
+  margin-bottom: 0.60rem;
+  /* 修改 */
+}
+.bgc_w{
+background-color: #fff;
+}
+.color_3{
+  color: #333;
+}
+.color_6{
+  color: #666;
+}
+.font_18{
+font-size: 18px;
+}
+.font_15{
+font-size: 15px;
+}
+.font_12
+{
+  font-size: 12px;
+}
